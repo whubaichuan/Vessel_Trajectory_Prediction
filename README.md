@@ -1,4 +1,4 @@
-# vessel trajectory
+# Vessel Trajectory Prediction
 This is a demo of the vessel trajectory prediction and the unofficial and simple implementation of the papers listed below.
 + [Deep Learning Methods for Vessel Trajectory Prediction based on Recurrent Neural Networks](https://arxiv.org/pdf/2101.02486.pdf)
 + [Prediction oof Vessel Trajectories From AIS Data Via Sequence-To-Sequence Recurrent Neural Networks](https://ieeexplore.ieee.org/document/9054421)
